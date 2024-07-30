@@ -1,4 +1,4 @@
-# guoxinfe-FOF-dressing-invisible-and-matching
+# Guoxinfe-FOF-Dressing-Invisible-and-Matching
 
 This is a project focusing on the factors regarding Fund of Fund(FOF). By calculating the dressing, invisible, and matching factors, we can evaluate the performance of certain funds. Here we use funds that trade mainly on stocks.
 
