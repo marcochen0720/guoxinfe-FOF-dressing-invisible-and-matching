@@ -2,7 +2,7 @@
 
 This is a project focusing on the factors regarding Fund of Fund(FOF). By calculating the dressing, invisible, and matching factors, we can evaluate the performance of certain funds. Here we use funds that trade mainly on stocks.
 
-Due to some confidentiality concern, the data and the original journal is not posted, but the types of data and the construction of factors are clearly illustrated. Follow the readme file and my report, you will be able to do the replication and have a deeper understanding of FOF.
+Due to some confidentiality concern, the data and the original report is not posted, but the types of data and the construction of factors are clearly illustrated. Follow the readme file and my report, you will be able to do the replication and have a deeper understanding of FOF.
 
 In this case we only consider the Chinese Ashare stocks.
 
